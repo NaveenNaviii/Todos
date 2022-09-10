@@ -11,3 +11,11 @@
     body {
         background-image: url(https://cdn.pixabay.com/photo/2017/02/10/03/12/winter-2054297_960_720.jpg);
     }
+    
+    h1 {
+        text-shadow: 3px 5px 7px;
+    }
+    
+    h1:hover {
+        text-shadow: none;
+    }
